@@ -7,7 +7,7 @@ public class IntegerDemo : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        // int형 변수가 가징수 있는 가장 적은값
+        // int형 변수가 가질수 있는 가장 적은값
         int min = -2147483648;
         // int형 변수가 가질수 있는 가장 큰값
         int max = 2147483647;

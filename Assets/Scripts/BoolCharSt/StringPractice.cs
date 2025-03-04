@@ -8,7 +8,7 @@ public class StringPractice : MonoBehaviour
         int i = 3;
         string s = "홀수";
 
-        Debug.Log($"{3}은(는) {s}입니다");
+        Debug.Log($"{i}은(는) {s}입니다");
     }
 
 }
